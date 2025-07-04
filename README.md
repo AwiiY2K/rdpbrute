@@ -15,5 +15,5 @@ Cara menginstal project ini:
 ```bash
 git clone https://github.com/AwiiY2K/rdpbrute.git
 cd rdpbrute
-npm install chikd_process fs
+npm install child_process fs
 node brute.js
